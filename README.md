@@ -30,5 +30,5 @@ The goal is to create a predictive model that estimates house prices and identif
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mainak-18/house-price-prediction.git
+   git clone https://github.com/Mainak-18/House_Price_Prediction.git
   
